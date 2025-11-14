@@ -1,0 +1,9 @@
+LIBRARY fb2_c0
+EXPORTS
+	GetGlobalInfoW
+	GetPluginInfoW
+	SetStartupInfoW
+	GetMinFarVersionW
+	GetContentFieldsW
+	GetContentDataW
+	FreeContentDataW
