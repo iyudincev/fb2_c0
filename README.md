@@ -6,7 +6,7 @@ The plugin scans for files with extension `.FB2` and `.ZIP`.
 
 Supported column names:
 
-- `book-title`
+- `title`
 - `first-name`
 - `last-name`
 - `genre`
